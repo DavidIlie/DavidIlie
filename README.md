@@ -2,14 +2,14 @@
 
 ## I'm a kid that is a developer, pretty nice.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm currently in a collabration to make a web application
-- 🥅 2021 Goals: Code ALOT more
+- 🌱 I’m currently learning as my cool things as possible
+- 👯 I'm currently building my first web application with my friends
+- 🥅 End of 2020 Goals: Finish WorkLog
 - ⚡ Fun fact: I play minecraft
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/byp9mjf9rglws17uoesxyy1zm)
+[<img src="https://spotify-now-playing-theta-rouge.vercel.app/api/spotify-playing" alt="David Ilie Spotify Playing" width="350" />](https://open.spotify.com/user/byp9mjf9rglws17uoesxyy1zm)
 
 ### Connect with me:
 
