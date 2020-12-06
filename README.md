@@ -7,10 +7,6 @@
 - 🥅 End of 2020 Goals: Finish WorkLog
 - ⚡ Fun fact: I play minecraft
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-theta-rouge.vercel.app/api/spotify-playing" alt="David Ilie Spotify Playing" width="350" />](https://open.spotify.com/user/byp9mjf9rglws17uoesxyy1zm)
-
 ### Connect with me:
 
 [<img align="left" alt="davidilie.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
