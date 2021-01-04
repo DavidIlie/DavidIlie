@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning as my cool things as possible
 - 👯 I'm currently building my first web application with my friends
-- 🥅 End of 2020 Goals: Finish WorkLog
+- 🥅 End of 2021 Goals: Finish WorkLog and GBot v2
 - ⚡ Fun fact: I play minecraft
 
 ### Connect with me:
