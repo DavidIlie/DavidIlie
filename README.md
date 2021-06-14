@@ -8,7 +8,7 @@
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@davidilie.com)
-[![adamalston.com](https://img.shields.io/badge/-DAVIDILIE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://davidilie.com/)
+[![davidilie.com](https://img.shields.io/badge/-DAVIDILIE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://davidilie.com/)
 
 ### Languages I use
 
