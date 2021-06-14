@@ -1,4 +1,4 @@
-[![Header](https://github.com/davidilie/davidilie/raw/master//profile_header.gif)](https://davidilie.com)
+[![Header](https://github.com/DavidIlie/DavidIlie/blob/main/profile_header.gif?raw=true)](https://davidilie.com)
 
 ### Hi, I'm David:
 
