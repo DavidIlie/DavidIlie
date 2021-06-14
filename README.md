@@ -1,14 +1,35 @@
-### Hi there, I'm David 👋
+[![Header](https://github.com/davidilie/davidilie/raw/master//profile_header.gif)](https://davidilie.com)
 
-- 🌱 I’m currently learning server management and the MERN (Mongo, Express, React and NodeJS) stack
-- 🥅 End of 2021 Goals: Finish WorkLog
-- ⚡ Fun fact: I also play minecraft
+### Hi, I'm David:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DavidIlie&show_icons=true&hide_border=true" />
-</details>
+- 🎓IGCSE Computer Science student
+- :test_tube: Learning about the MERN stack and using it in production applications
+- :speech_balloon: You can ask me about anything, unless I am busy.
+- :mailbox: You can reach me with the links below
 
-[website]: https://davidilie.com
-[twitter]: https://twitter.com/AlbastruYT
-[youtube]: https://youtube.com/c/davtdlthediamondlord
+[![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@davidilie.com)
+[![adamalston.com](https://img.shields.io/badge/-DAVIDILIE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+
+### Languages I use
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+
+### Projects that I am currently working on:
+
+- [WorkLog](https://github.com/WorkLogES)
+- [Personal Website](https://github.com/davidilie-website)
+
+and much more...
