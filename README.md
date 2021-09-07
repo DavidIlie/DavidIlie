@@ -20,10 +20,11 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-## Recent Activity
+## Projects that I am currently working on:
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+-   [Personal Website](https://github.com/davidilie/davidilie.com)
+-   [ShareX Media Server](https://github.com/davidilie/sharex-media-server)
+-   [WorkLog](https://github.com/WorkLogES)
 
 ## GitHub Stats
 
