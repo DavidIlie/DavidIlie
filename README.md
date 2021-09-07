@@ -11,9 +11,9 @@
 
 ## Things I use
 
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -22,18 +22,9 @@
 
 ## Projects that I am currently working on:
 
--   [Personal Website](https://github.com/davidilie/davidilie.com)
--   [Personal Dashboard](https://github.com/davidilie/personal-dashboard)
--   [WorkLog](https://github.com/WorkLogES)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## GitHub Stats
 
 [![DavidIlie github stats](https://github-readme-stats.vercel.app/api?username=DavidIlie&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/DavidIlie/davidilie.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidIlie&repo=davidilie.com&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/DavidIlie/sharex-media-server">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidIlie&repo=sharex-media-server&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
