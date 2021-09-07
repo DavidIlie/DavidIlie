@@ -2,14 +2,14 @@
 
 ## Hi, I'm David:
 
--   🎓IGCSE Computer Science student
+-   🎓IGCSE student
 -   :test_tube: Learning about the MERN stack and using it in production applications
 -   :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@davidilie.com)
 [![davidilie.com](https://img.shields.io/badge/-DAVIDILIE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://davidilie.com/)
 
-## Things I use
+## Technologies I use
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
