@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-## Projects that I am currently working on:
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
