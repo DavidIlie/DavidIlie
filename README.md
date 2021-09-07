@@ -23,6 +23,10 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/DavidIlie/davidilie.com/pull/6) in [DavidIlie/davidilie.com](https://github.com/DavidIlie/davidilie.com)
+2. 🎉 Merged PR [#5](https://github.com/DavidIlie/davidilie.com/pull/5) in [DavidIlie/davidilie.com](https://github.com/DavidIlie/davidilie.com)
+3. ❗️ Closed issue [#28](https://github.com/Senither/ShareX-Media-Server/issues/28) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+4. ❗️ Opened issue [#1](https://github.com/DavidIlie/sharex-media-server/issues/1) in [DavidIlie/sharex-media-server](https://github.com/DavidIlie/sharex-media-server)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
