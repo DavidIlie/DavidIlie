@@ -23,7 +23,7 @@
 ## Projects that I am currently working on:
 
 -   [Personal Website](https://github.com/davidilie/davidilie.com)
--   [ShareX Media Server](https://github.com/davidilie/sharex-media-server)
+-   [ShareX Upload Server](https://github.com/davidilie/sharex-upload-server)
 -   [WorkLog](https://github.com/WorkLogES)
 
 ## GitHub Stats
