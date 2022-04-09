@@ -1,8 +1,6 @@
 ## Hi, I'm David:
 
--   15 year old software developer from Bucharest, Romania.
--   Currently living in Spain for my studies
--   Passionate web developer
+- i code stuff
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@davidilie.com)
 [![davidilie.com](https://img.shields.io/badge/-DAVIDILIE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://davidilie.com/)
