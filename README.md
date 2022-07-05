@@ -1,4 +1,4 @@
-## Hi, i'm David:
+## Hi, I'm David:
 
 - i code stuff
 
