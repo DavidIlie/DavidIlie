@@ -41,6 +41,7 @@ repo = "DavidIlie/plexo"
 
 [[current_projects]]
 repo = "DavidIlie/t3code"
+description = "Opinionated Claude Code wrapper built on top of T3 Code"
 
 [[current_projects]]
 repo = "DavidIlie/home-cluster"
@@ -48,7 +49,7 @@ repo = "DavidIlie/home-cluster"
 [[current_projects]]
 name = "ZeroCut"
 url = "https://zerocut.gg"
-description = "Commission-free stock trading platform"
+description = "Donation platform that takes zero cut"
 
 [[everything_else]]
 repo = "DavidIlie/personal-dashboard"

@@ -24,7 +24,7 @@ if GITHUB_TOKEN:
     HEADERS["Authorization"] = f"token {GITHUB_TOKEN}"
 
 INTRO = (
-    "Full-stack developer from the UK. I build tools for home automation, "
+    "Full-stack developer from Romania. I build tools for home automation, "
     "self-hosting, and whatever else catches my attention."
 )
 
@@ -85,11 +85,7 @@ def get_repo_info(repo_slug):
 
 
 def format_stars(count):
-    if count == 0:
-        return ""
-    if count >= 1000:
-        return f" ({count / 1000:.1f}k stars)"
-    return f" ({count} {'star' if count == 1 else 'stars'})"
+    return ""
 
 
 def discover_repos(config, repo_map):
@@ -159,10 +155,9 @@ def generate_descriptions(projects_needing_desc, cache):
     )
 
     resp = client.chat.completions.create(
-        model="gpt-4.1-mini",
+        model="gpt-5-mini",
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"},
-        temperature=0.7,
     )
 
     try:
