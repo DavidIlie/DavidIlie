@@ -1,0 +1,75 @@
+[discovery]
+username = "DavidIlie"
+ignore = [
+    "DavidIlie",           # profile repo itself
+    "Templates",           # fork, not interesting
+    "goxlr-utility",       # fork
+    "hass-dev",            # fork
+    "next-auth-azure-ad-problem",
+    "cs-python",
+    "cow-app",
+    "gbot",
+    "github-projects-app",
+    "npx_business_card",
+    "express-api-template",
+    "type-graphql-auth-flow",
+    "trpc-typescript-todo",
+    "landing",
+    "dht",
+    "battle-ships",
+    "davidapps-platform",
+    "markdown-editor",
+    "vps-update-wireguard",
+    "bangeralert",
+    "claude-code-prometheus",
+    "kca-news",
+    "kube-interact",
+    "kubernetes-setup",
+    "obs-youtube-widget",
+    "octoprint-camera-ui",
+    "seedyn",
+    "t3-all-inclusive",
+    "trpc-fullstack-monorepo",
+    "sharex-docker-upload-server",
+    "spotify-csv-tracker",
+    "t3-selfhostable",
+    "tailwind-classes-generator",
+]
+
+[[current_projects]]
+repo = "DavidIlie/plexo"
+
+[[current_projects]]
+repo = "DavidIlie/t3code"
+
+[[current_projects]]
+repo = "DavidIlie/home-cluster"
+
+[[current_projects]]
+name = "ZeroCut"
+url = "https://zerocut.gg"
+description = "Commission-free stock trading platform"
+
+[[everything_else]]
+repo = "DavidIlie/personal-dashboard"
+
+[[everything_else]]
+repo = "DavidIlie/tcl-home-ac"
+
+[[everything_else]]
+repo = "DavidIlie/ilo4-fan-controller"
+
+[[everything_else]]
+repo = "DavidIlie/tuya-smart-ir-ac"
+
+[[everything_else]]
+repo = "DavidIlie/davidilie.com"
+
+[[everything_else]]
+repo = "DavidIlie/sharex-upload-server"
+
+[[everything_else]]
+repo = "DavidIlie/laundrey"
+
+[[everything_else]]
+repo = "DavidIlie/reddam-pokemon-go"
