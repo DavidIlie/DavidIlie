@@ -127,31 +127,72 @@ def is_worthy(repo):
     return False
 
 
+def fetch_repo_context(slug):
+    """Fetch README content and file tree for a repo so the AI can understand it."""
+    context = ""
+
+    # Fetch file tree (top-level)
+    try:
+        tree = github_get(f"{GITHUB_API}/repos/{slug}/contents/")
+        file_names = [f["name"] for f in tree if isinstance(f, dict)]
+        context += f"Files: {', '.join(file_names)}\n"
+    except Exception:
+        pass
+
+    # Fetch README content
+    try:
+        readme_resp = requests.get(
+            f"{GITHUB_API}/repos/{slug}/readme",
+            headers={**HEADERS, "Accept": "application/vnd.github.v3.raw"},
+            timeout=15,
+        )
+        if readme_resp.ok:
+            readme_text = readme_resp.text[:3000]  # cap at 3k chars
+            context += f"README:\n{readme_text}\n"
+    except Exception:
+        pass
+
+    return context
+
+
 def generate_descriptions(projects_needing_desc, cache):
-    """Call OpenAI to generate descriptions for projects without one."""
+    """Fetch repo READMEs + file trees, then call OpenAI with real context."""
     if not projects_needing_desc:
         return cache
 
     client = OpenAI(api_key=OPENAI_API_KEY)
 
-    repo_lines = []
+    # Fetch context for each repo
+    repo_sections = []
     for slug, repo_data in projects_needing_desc.items():
         desc = repo_data.get("description") or "No description"
         lang = repo_data.get("language") or "Unknown"
         topics = ", ".join(repo_data.get("topics", []))
-        repo_lines.append(
-            f"- {slug}: {desc} (language: {lang}, topics: {topics})"
-        )
+
+        print(f"  Fetching context for {slug}...")
+        context = fetch_repo_context(slug)
+
+        section = f"### {slug}\n"
+        section += f"GitHub description: {desc}\n"
+        section += f"Language: {lang}, Topics: {topics}\n"
+        if context:
+            section += context
+        repo_sections.append(section)
 
     prompt = (
-        "Generate a one-sentence description for each GitHub repo below. "
-        "Style: concise, slightly informal, confident. Focus on what it does "
-        "for the user, not implementation details. Witty when it fits, don't "
-        "force it. No corporate speak. Examples of good descriptions: "
-        '"File uploads for modern web devs", '
-        '"Redirect Bing somewhere better".\n\n'
-        "Repos:\n" + "\n".join(repo_lines) + "\n\n"
-        "Reply with JSON only: {\"repo/slug\": \"description\", ...}"
+        "You are reading the actual README and file listing for each GitHub "
+        "repo below. Based on the REAL content of each repo, generate a "
+        "one-sentence description that accurately describes what the project "
+        "actually does.\n\n"
+        "Style: concise, slightly informal, confident. Focus on what it does, "
+        "not how it's built. Witty when natural, never forced. No corporate "
+        "speak. Max ~15 words per description.\n\n"
+        "Examples of good descriptions:\n"
+        '- "File uploads for modern web devs"\n'
+        '- "Redirect Bing somewhere better"\n'
+        '- "Reverse-engineered TCL API to control your AC from Home Assistant"\n\n'
+        + "\n".join(repo_sections)
+        + "\n\nReply with JSON only: {\"owner/repo\": \"description\", ...}"
     )
 
     resp = client.chat.completions.create(

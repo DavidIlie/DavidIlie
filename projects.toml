@@ -47,6 +47,9 @@ description = "Opinionated Claude Code wrapper built on top of T3 Code"
 repo = "DavidIlie/home-cluster"
 
 [[current_projects]]
+repo = "DavidIlie/ilo4-fan-controller"
+
+[[current_projects]]
 name = "ZeroCut"
 url = "https://zerocut.gg"
 description = "Donation platform that takes zero cut"
@@ -56,9 +59,6 @@ repo = "DavidIlie/personal-dashboard"
 
 [[everything_else]]
 repo = "DavidIlie/tcl-home-ac"
-
-[[everything_else]]
-repo = "DavidIlie/ilo4-fan-controller"
 
 [[everything_else]]
 repo = "DavidIlie/tuya-smart-ir-ac"

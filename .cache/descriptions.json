@@ -1,12 +1,12 @@
 {
-  "DavidIlie/plexo": "A self-hosted dashboard that lets you browse your Plex movies, shows, watch history and viewing trends in one tidy interface.",
-  "DavidIlie/home-cluster": "Turn spare hardware into a reliable, easy-to-operate home server cluster with sensible defaults and automated ops.",
-  "DavidIlie/personal-dashboard": "A compact self-hosted dashboard that surfaces and controls all your personal services in one place.",
-  "DavidIlie/tcl-home-ac": "Hook your TCL air conditioner into Home Assistant so you can monitor and control it even without official support.",
-  "DavidIlie/ilo4-fan-controller": "Take control of fan speeds on modded iLO4 servers to keep temperatures down and the noise tolerable.",
-  "DavidIlie/tuya-smart-ir-ac": "Make Tuya IR air conditioners controllable from Home Assistant so you can automate and remote-control them like any other smart device.",
-  "DavidIlie/davidilie.com": "My personal site and portfolio showcasing projects, posts, and contact details in one place.",
-  "DavidIlie/sharex-upload-server": "Run your own fast, privacy-first ShareX upload server for screenshots and files.",
-  "DavidIlie/laundrey": "Track items handed into the laundry so nothing gets lost or mixed up.",
-  "DavidIlie/reddam-pokemon-go": "A kid-friendly location game inspired by Pok\u00e9mon Go that helps students explore and learn about their school."
+  "DavidIlie/plexo": "Plex library dashboard that visualizes movies, shows, watch history, analytics and recommendations.",
+  "DavidIlie/home-cluster": "My GitOps homelab repo: Flux-driven Kubernetes and Proxmox configs for a personal server cluster.",
+  "DavidIlie/ilo4-fan-controller": "Web UI and REST API to remotely control modded iLO4 fan speeds on HP Gen8 servers.",
+  "DavidIlie/personal-dashboard": "Personal Next.js dashboard for monitoring and launching the author's self\u2011hosted services.",
+  "DavidIlie/tcl-home-ac": "Reverse\u2011engineered TCLHome client to access and control TCL air conditioners programmatically.",
+  "DavidIlie/tuya-smart-ir-ac": "Home Assistant custom integration to control Tuya IR\u2011based air conditioners from your HA instance.",
+  "DavidIlie/davidilie.com": "Author's Next.js + TypeScript personal website and blog/portfolio.",
+  "DavidIlie/sharex-upload-server": "Self\u2011hosted ShareX upload server with web UI and API for images, files and text.",
+  "DavidIlie/laundrey": "Simple app to track clothes handed into laundry \u2014 a personal laundry check\u2011in system.",
+  "DavidIlie/reddam-pokemon-go": "A React Native websocket game for students to find school rooms, with admin dashboard and scoring."
 }
