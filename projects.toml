@@ -73,4 +73,5 @@ repo = "DavidIlie/sharex-upload-server"
 repo = "DavidIlie/laundrey"
 
 [[everything_else]]
-repo = "DavidIlie/reddam-pokemon-go"
+repo = "DavidIlie/reddam-pokemon-go"[[everything_else]]
+repo = "DavidIlie/packet-tracer-mcp"
