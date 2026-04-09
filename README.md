@@ -22,3 +22,4 @@ Check out my [website](https://davidilie.com). Support me on [ZeroCut](https://z
 - **[laundrey](https://github.com/DavidIlie/laundrey)** — Simple app to track clothes handed into laundry — a personal laundry check‑in system.
 - **[reddam-pokemon-go](https://github.com/DavidIlie/reddam-pokemon-go)** — A React Native websocket game for students to find school rooms, with admin dashboard and scoring.
 - **[packet-tracer-mcp](https://github.com/DavidIlie/packet-tracer-mcp)** — Turns LLM prompts into live Cisco Packet Tracer network topologies—plan, validate, generate, and deploy.
+- **[tokmon](https://github.com/DavidIlie/tokmon)** — Terminal dashboard for Claude Code—shows usage, tokens, costs, and rate limits.

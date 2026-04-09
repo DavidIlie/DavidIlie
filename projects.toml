@@ -77,3 +77,5 @@ repo = "DavidIlie/reddam-pokemon-go"
 
 [[everything_else]]
 repo = "DavidIlie/packet-tracer-mcp"
+[[everything_else]]
+repo = "DavidIlie/tokmon"

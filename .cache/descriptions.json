@@ -9,5 +9,6 @@
   "DavidIlie/sharex-upload-server": "Self\u2011hosted ShareX upload server with web UI and API for images, files and text.",
   "DavidIlie/laundrey": "Simple app to track clothes handed into laundry \u2014 a personal laundry check\u2011in system.",
   "DavidIlie/reddam-pokemon-go": "A React Native websocket game for students to find school rooms, with admin dashboard and scoring.",
-  "DavidIlie/packet-tracer-mcp": "Turns LLM prompts into live Cisco Packet Tracer network topologies\u2014plan, validate, generate, and deploy."
+  "DavidIlie/packet-tracer-mcp": "Turns LLM prompts into live Cisco Packet Tracer network topologies\u2014plan, validate, generate, and deploy.",
+  "DavidIlie/tokmon": "Terminal dashboard for Claude Code\u2014shows usage, tokens, costs, and rate limits."
 }
