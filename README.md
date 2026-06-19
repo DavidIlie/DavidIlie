@@ -1,5 +1,3 @@
-<img src="profile_header.gif" width="100%" />
-
 Full-stack developer from Romania. I build tools for home automation, self-hosting, and whatever else catches my attention.
 
 Check out my [website](https://davidilie.com). Support me on [ZeroCut](https://zerocut.gg/david).
