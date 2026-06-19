@@ -37,25 +37,30 @@ ignore = [
 ]
 
 [[current_projects]]
-repo = "DavidIlie/plexo"
+name = "ZeroCut"
+url = "https://zerocut.gg"
+description = "Donation platform that takes zero cut"
 
 [[current_projects]]
-repo = "DavidIlie/t3code"
-description = "Opinionated Claude Code wrapper built on top of T3 Code"
+name = "MBRetrofit Tools"
+url = "https://mbretrofit.it"
+description = "Mercedes-Benz software solutions"
+
+[[current_projects]]
+repo = "DavidIlie/tokmon"
 
 [[current_projects]]
 repo = "DavidIlie/home-cluster"
 
 [[current_projects]]
-repo = "DavidIlie/ilo4-fan-controller"
-
-[[current_projects]]
-name = "ZeroCut"
-url = "https://zerocut.gg"
-description = "Donation platform that takes zero cut"
+repo = "DavidIlie/plexo"
 
 [[everything_else]]
 repo = "DavidIlie/personal-dashboard"
+
+[[everything_else]]
+repo = "DavidIlie/t3code"
+description = "Opinionated Claude Code wrapper built on top of T3 Code"
 
 [[everything_else]]
 repo = "DavidIlie/tcl-home-ac"
@@ -65,6 +70,9 @@ repo = "DavidIlie/tuya-smart-ir-ac"
 
 [[everything_else]]
 repo = "DavidIlie/davidilie.com"
+
+[[everything_else]]
+repo = "DavidIlie/ilo4-fan-controller"
 
 [[everything_else]]
 repo = "DavidIlie/sharex-upload-server"
@@ -77,5 +85,3 @@ repo = "DavidIlie/reddam-pokemon-go"
 
 [[everything_else]]
 repo = "DavidIlie/packet-tracer-mcp"
-[[everything_else]]
-repo = "DavidIlie/tokmon"
